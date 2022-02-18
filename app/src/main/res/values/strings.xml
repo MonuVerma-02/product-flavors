@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ProductFlavors</string>
+    <string name="message_key">Hello this is default version</string>
+
+</resources>
