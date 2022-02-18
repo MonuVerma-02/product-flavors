@@ -35,8 +35,8 @@ productFlavors {
 Screenshots
 -----------
 
- ![screenshot][1] ![screenshot][2] ![screenshot][3]
+![screenshot][1] ![screenshot][2] ![screenshot][3]
 
- [1]: ./screenshot/free.gif
- [2]: ./screenshot/paid.gif
- [3]: ./screenshot/free_paid_logo_label.gif
+[1]: ./screenshot/free.jpg
+[2]: ./screenshot/paid.jpg
+[3]: ./screenshot/free_paid_logo_label.jpg
