@@ -35,7 +35,7 @@ productFlavors {
 Screenshots
 -----------
 
-![screenshot][1] ![screenshot][2] ![screenshot][3]
+![screenshot][1]  ![screenshot][2]  ![screenshot][3]
 
 [1]: ./screenshot/free.jpg
 [2]: ./screenshot/paid.jpg
